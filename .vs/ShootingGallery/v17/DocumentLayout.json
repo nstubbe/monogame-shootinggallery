@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\GameDev\\ShootingGallery\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9628F03-48C4-4082-9C02-50F38D1DBB26}|ShootingGallery\\ShootingGallery.csproj|c:\\projects\\gamedev\\shootinggallery\\shootinggallery\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9628F03-48C4-4082-9C02-50F38D1DBB26}|ShootingGallery\\ShootingGallery.csproj|solutionrelative:shootinggallery\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9628F03-48C4-4082-9C02-50F38D1DBB26}|ShootingGallery\\ShootingGallery.csproj|c:\\projects\\gamedev\\shootinggallery\\shootinggallery\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9628F03-48C4-4082-9C02-50F38D1DBB26}|ShootingGallery\\ShootingGallery.csproj|solutionrelative:shootinggallery\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9628F03-48C4-4082-9C02-50F38D1DBB26}|ShootingGallery\\ShootingGallery.csproj|c:\\projects\\gamedev\\shootinggallery\\shootinggallery\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9628F03-48C4-4082-9C02-50F38D1DBB26}|ShootingGallery\\ShootingGallery.csproj|solutionrelative:shootinggallery\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Global.cs",
+              "DocumentMoniker": "C:\\Projects\\GameDev\\ShootingGallery\\ShootingGallery\\Global.cs",
+              "RelativeDocumentMoniker": "ShootingGallery\\Global.cs",
+              "ToolTip": "C:\\Projects\\GameDev\\ShootingGallery\\ShootingGallery\\Global.cs",
+              "RelativeToolTip": "ShootingGallery\\Global.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T20:38:32.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Target.cs",
+              "DocumentMoniker": "C:\\Projects\\GameDev\\ShootingGallery\\ShootingGallery\\Target.cs",
+              "RelativeDocumentMoniker": "ShootingGallery\\Target.cs",
+              "ToolTip": "C:\\Projects\\GameDev\\ShootingGallery\\ShootingGallery\\Target.cs",
+              "RelativeToolTip": "ShootingGallery\\Target.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T20:01:55.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Projects\\GameDev\\ShootingGallery\\ShootingGallery\\Game1.cs",
+              "RelativeDocumentMoniker": "ShootingGallery\\Game1.cs",
+              "ToolTip": "C:\\Projects\\GameDev\\ShootingGallery\\ShootingGallery\\Game1.cs",
+              "RelativeToolTip": "ShootingGallery\\Game1.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwCQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:58:50.832Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Projects/GameDev/ShootingGallery/ShootingGallery/Content/crosshairs.png","C:/Projects/GameDev/ShootingGallery/ShootingGallery/Content/bin/DesktopGL/crosshairs.xnb","TextureProcessor","Texture2DContent",1892,10085,0,1310655
+"C:/Projects/GameDev/ShootingGallery/ShootingGallery/Content/galleryFont.spritefont","C:/Projects/GameDev/ShootingGallery/ShootingGallery/Content/bin/DesktopGL/galleryFont.xnb","FontDescriptionProcessor","SpriteFontContent",2065,70687,0,9568428
+"C:/Projects/GameDev/ShootingGallery/ShootingGallery/Content/sky.png","C:/Projects/GameDev/ShootingGallery/ShootingGallery/Content/bin/DesktopGL/sky.xnb","TextureProcessor","Texture2DContent",1079607,9216085,0,4326392
+"C:/Projects/GameDev/ShootingGallery/ShootingGallery/Content/target.png","C:/Projects/GameDev/ShootingGallery/ShootingGallery/Content/bin/DesktopGL/target.xnb","TextureProcessor","Texture2DContent",3395,32485,0,0114687
